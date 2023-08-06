@@ -1,57 +1,57 @@
 {
-    "JSON": true,
-    "AUTHOR": "ProfileCorruptedError",
-    "LANGUAGE": "English",
-    "LANGCODE": "en",
-    "STRINGS": {
-        "updater": {
-            "UPDATE": "Your bot is already on latest version Baka!",
-            "NEW_UPDATE": "There is a new update available for the bot!\n\n*Changes:*\n",
-            "UPDATED_LOCAL": "Fresh Updates Installed!"
-        },
-        "global": {
-            "botName": " GOJO SATURO ",
-
-            "body": " SUKAAMUNAA!! ",
-            "greet2" : "Hey Baka! I'm the strongest",
-            "pic1": "https://telegra.ph/file/907857ba95dc543034890.jpg",
-            "pic2": "https://telegra.ph/file/ebe7df0e9ed123d4c7267.jpg",
-            "pic3": "https://telegra.ph/file/b892840c17aa3a890aec2.jpg",
-            "pic4": "https://telegra.ph/file/31daba053d98b1ca15882.jpg",
-            "pic5": "https://telegra.ph/file/5f586b28ece41d1b85496.jpg",
-            "pic6": "https://telegra.ph/file/40b2b95715a537cdb96d4.jpg",
-            "pic7": "https://telegra.ph/file/3a7b403efb16ade978249.jpg",
-             "greet" : "Oi~Baka!",
-           "dotbody" : "Yup.I am here.",
-            "emijii" : "🎍",
-            "promote": "A new worthy DEMON arrived",
-            "pmallow": "Hii,This is Gojo\n*The strongest Jujuts Scocerer.*\nMy Brother is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
-            "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _ 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐍𝐞𝐳𝐮𝐤𝐨_",
-            "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. You have ${checkPermit.times} warning(s).\n\n * 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐍𝐞𝐳𝐮𝐤𝐨*",
-            "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐍𝐞𝐳𝐮𝐤𝐨", 
-            "revoked" : "Hii ${tname} Sir\n\nYour pm permit permission has been prevoked now.\n\n 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐍𝐞𝐳𝐮𝐤𝐨",
-            "demote": "You are not Worthy",
-            "antlink": "Link Detected.\n*Good Bye Worthless Demon*",
-            "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and Deploy Branch and Bot will run for Always\n\n*𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐍𝐞𝐳𝐮𝐤𝐨*",
-            "mention": " Please mention any user Baka!",
-            "title": "GOJO SATURO",
-            "footer": "Baka! I'm Here!",
-            "by": "Made by: CitelVoid",
-            "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
-            "success": "Success ✓",
-            "dot": "Baka!, Why don't you try .help",
-            "couple_male": "I'm sorry i didn't understand for so long",
-            "couple_female": "Put everything in your soulders",
-            "admin": "𝑇ℎ𝑖𝑠 𝑐𝑜𝑚𝑚𝑎𝑛𝑑 𝑖𝑠 𝑜𝑛𝑙𝑦 𝑓𝑜𝑟 𝑔𝑟𝑜𝑢𝑝 𝐴𝑑𝑚𝑖𝑛⚠️!",
-            "botAdmin": "𝑃𝑙𝑒𝑎𝑠𝑒 𝑃𝑟𝑜𝑣𝑖𝑑𝑒 𝑚𝑒 𝐴𝑑𝑚𝑖𝑛 𝑅𝑜𝑙𝑒 .❗",
-            "owner": "𝐓𝐡𝐢𝐬 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐢𝐬 𝐨𝐧𝐥𝐲 𝐟𝐨𝐫 𝐌𝐲 𝐎𝐰𝐧𝐞𝐫 ⚠️",
-            "group": "𝑻𝒉𝒊𝒔 𝑭𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒔 𝑶𝒏𝒍𝒚 𝑭𝒐𝒓 𝑮𝒓𝒐𝒖𝒑𝒔❗",
-            "private": "𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒏 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒕𝒉𝒆 𝐌𝐲 𝐎𝐰𝐧𝐞𝐫 ⚠️",
-            "bot": "𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒏 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒕𝒉𝒆 𝒃𝒐𝒕 𝒏𝒖𝒎𝒃𝒆𝒓⚠️",
-            "wait": "𝑷𝒓𝒐𝒄𝒆𝒔𝒔𝒊𝒏𝒈 𝒚𝒐𝒖𝒓 𝒓𝒆𝒒𝒖𝒆𝒔𝒕✅"
-        },
-        "error": {
-            "text": "Task Failed"
-        }
-    }
+  "__JSON__": true,
+  "AUTHOR": "Sᴀᴍᴍʏ",
+  "theme": "𝙂𝞗𝙅𝞗 𝙎𝞓𝙏𝞗𝞒𝙐",
+  "LANGUAGE": "English",
+  "LANGCODE": "en",
+  "STRINGS": {
+      "updater": {
+          "UPDATE": "*Believe it.\nYour bot is already up-to-date*",
+          "NEW_UPDATE": "*it's time to update the bot!*\n\n*Changes:*\n",
+          "UPDATED_LOCAL": "*Successfully Updated!*"
+      },
+      "global": {
+          "botName": " 𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 Sᴀᴍᴍʏ ᴋᴜɴ",
+          "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
+          "greet2" : "Yowai mo",
+          "pic1": "https://i.pinimg.com/236x/6c/65/c3/6c65c31e5774a5623c92487dea63c784.jpg",
+          "pic2": "https://i.pinimg.com/236x/04/94/e1/0494e11cfe9dd6151ce2b5c6dd3ae4af.jpg",
+          "pic3": "https://i.pinimg.com/236x/46/3d/8d/463d8dfc933c3f4213a82a837c500f7d.jpg",
+          "pic4": "https://i.pinimg.com/236x/a1/19/58/a119581c70196bd7cb91208b29629c88.jpg",
+          "pic5": "https://i.pinimg.com/236x/66/c4/2e/66c42e218cba803703de2b6ed651882b.jpg",
+          "pic6": "https://i.pinimg.com/236x/86/a8/fb/86a8fba19a8e968573f69dd7e795493a.jpg",
+          "pic7": "https://i.pinimg.com/236x/ab/a5/c3/aba5c3331ae21a4635bf3ddeb66429f9.jpg",
+           "greet" : "Baka i am the strongest",
+         "dotbody" : "are you hurt,Scaredy cat.",
+           "emijii": "🍥", 
+          "promote": "Admin Role Given to sorcerer",
+          "pmallow": "*Hii,This is Gojo satoru *\nMy Man is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
+          "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _ 𝚙𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 Sᴀᴍᴍʏ_",
+          "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. _You have ${checkPermit.times} warning(s)._\n\n * 𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 Sᴀᴍᴍʏ*",
+          "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n *𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 Sᴀᴍᴍʏ*", 
+          "revoked" : "*Hii ${tname} Sir*\n\nYour pm permit permission has been prevoked now.\n\n _ 𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 Sᴀᴍᴍʏ_",
+          "demote": "Uhh,Admin Role Taken back",
+          "antlink": "Link Detected.\n*Good Bye Cursed spirit*",
+          "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝒃𝒚 𝙂𝞗𝙅𝞗 𝙎𝞓𝙏𝞗𝞒𝙐*",
+          "mention": " Please mention any user sorcerer",
+          "title": "ɢᴏᴊᴏ",
+          "footer": "ɢᴏᴊᴏ",
+          "by": "Made by: *Sᴀᴍᴍʏ*",
+          "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+          "success": "Done ✓",
+          "dot": "Hi, Did you mean *-help?*\n just.. don't bother me while I'm eating ramen",
+          "couple_male": "*Amanai please.*",
+          "couple_female": "*Amanai please*",
+          "admin": "ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴏɴʟʏ ғᴏʀ ɢʀᴏᴜᴘ ᴀᴅᴍɪɴ⚠️!",
+          "botAdmin": "ᴘʟᴇᴀsᴇ ᴘʀᴏᴠɪᴅᴇ ᴍᴇ ᴀᴅᴍɪɴ ʀᴏʟᴇ.❗",
+          "owner": "ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴏɴʟʏ ғᴏʀ ꜱᴏʀᴄᴇʀᴇʀꜱ⚠️",
+          "group": "ᴛʜɪs ғᴇᴀᴛᴜʀᴇ ɪs ᴏɴʟʏ ғᴏʀ ᴊᴜᴊᴜᴛꜱᴜ ꜱᴏʀᴄᴇʀᴇʀꜱ❗",
+          "private": "ᴛʜɪs ғᴇᴀᴛᴜʀᴇ ɪs ᴏɴʟʏ ғᴏʀ ɢᴏᴊᴏ ⚠️",
+          "bot": "ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴏɴʟʏ ғᴏʀ ɢᴏᴊᴏ⚠️",
+          "wait": "ᴘʀᴏᴄᴇssɪɴɢ ʏᴏᴜʀ ʀᴇᴏ̨ᴜᴇsᴛ𝒕✅"
+      },
+      "error": {
+          "text": "*You may come to regret trying to manipulate me.\nNow go get this Error fixed*"
+      }
   }
+}
