@@ -566,7 +566,7 @@ cmd({
     )
     //---------------------------------------------------------------------------
 cmd({
-            pattern: "kick",
+            pattern: "remove",
             desc: "Kicks replied/quoted user from group.",
             category: "group",
             filename: __filename,
